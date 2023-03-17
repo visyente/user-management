@@ -38,9 +38,8 @@ Open endpoints require no Authentication.
 
 default username & password
 
-Key       Value
-username  admin
-password  password
+Key: username Value: admin
+Key: password Value: password
 
 ## Endpoints that require Authentication
 
@@ -65,15 +64,12 @@ To test the api endpoint is postman.
 
 create fields
 
-Key         Value
-first_name
-last_name
-address
-post_code
-contact_no
-password
-username
-email
+Key: first_name, last_name, address,
+post_code,
+contact_no,
+password,
+username,
+email,
 
 multiple remove user
 
